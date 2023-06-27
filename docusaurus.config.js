@@ -73,7 +73,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Ilystris - Neverland.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ilystris ❤️ Neverland.`,
       },
       prism: {
         theme: lightCodeTheme,
