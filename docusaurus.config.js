@@ -21,7 +21,7 @@ const config = {
   organizationName: 'ilystris', // Usually your GitHub org/user name.
   projectName: 'ilystris', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch of your docs repo that you are publishing to GitHub pages
-  trailingSlash: false,
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
