@@ -4,5 +4,5 @@ slug: /
 ---
 
 # Home
-![Logo](../static/img/logo.png)
 ## Welcome Ilystris guides, tips and tricks !
+![Logo](../static/img/logo.png)
