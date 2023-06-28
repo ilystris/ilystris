@@ -10,3 +10,11 @@ You can add creative space to the quick menu! Don't need a teleporter or ryuker 
 ![Quick_Menu](img/quick_menu.png)
 
 (Press Shift on that menu to edit if it's not there)
+
+### Stone paths
+
+### Hotsprings
+
+### Blinds/Roofs/Railings/Bridges
+
+### Connect system
