@@ -33,7 +33,7 @@ sidebar_position: 3
 - Recommend farming Triplble's yourself as the supply is low on the store very often and it is much cheaper to do duels yourself. 
 - Mastery IV requires 10 Mastery III, Triplbles requires 3 Formido Fusias and 10 Deft/Spi stats each, depending on which one you desire. 
   - **Combat Sectors** spawns captan trials that drop mastery capsules, and megalotix enemies drop Deft stats and Spi stats. 
-  - Formido Fusias drop from **Duel Phase 1-x quests**. Highly recommended to make Defi P.01 gear to comfortably clear these quests. Cannot be purchased from the personal shop. Deft/Spi stats also drop here fairly often, along with a rare chance for Mastery IV.
+  - Formido Fusias drop from **Duel Phase 1-x quests**. Highly recommended to make Defi P.01 gear to comfortably clear these quests. Cannot be purchased from the personal shop. There's also a rare chance for Mastery IV.
   
 ## 6. Exdi Deftmeltech/Deftratech/Deftmelra/Deft Parfait (5-10m each)
 - Can only be purchased from the personal shop.
