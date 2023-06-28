@@ -18,6 +18,6 @@ sidebar_position: 4
 
 ![Waker](../static/img/wa.png) @Maru (gamba panda)'s [Waker Guide](https://docs.google.com/document/d/1wmRHi75YiYTvaCY5sgy0oPNkucLQnUvDa4_bPbPKjhU/edit )
 
-Ranger guide by Ivu https://docs.google.com/document/d/1Y84KyvIGpOB2uLEed3pNLWoxitpHZHmnD9y2b_9sl6E/edit?usp=sharing
+Ranger guide by Ivu and Kasumi https://pso2-ngs-ranger-guide.super.site/
 
 Slayer guide by Theowyn https://ngs-slayers.github.io/
