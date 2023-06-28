@@ -3,6 +3,5 @@ sidebar_position: 1
 slug: /
 ---
 
-# Home
-## Welcome Ilystris guides, tips and tricks !
+## Ilystris resources !
 ![Logo](../static/img/logo.png)
