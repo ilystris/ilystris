@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Mid
 
-# Eclair (Recommended) / Ajax 
+# Eclaireur (Recommended) / Ajax 
 - Might/Precision/Technique IV (1k ea)
 - Doldor/Nils/Freid/Aegis Soul IV (1k ea)
 - Triplble II (70k ea)
