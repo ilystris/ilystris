@@ -17,3 +17,7 @@ sidebar_position: 4
 ![Bouncer](../static/img/bo.png) @nepcool/@Opinion Blade Sneku's [Bouncer Guide](https://bit.ly/3v2vUkT)
 
 ![Waker](../static/img/wa.png) @Maru (gamba panda)'s [Waker Guide](https://docs.google.com/document/d/1wmRHi75YiYTvaCY5sgy0oPNkucLQnUvDa4_bPbPKjhU/edit )
+
+Ranger guide by Ivu https://docs.google.com/document/d/1Y84KyvIGpOB2uLEed3pNLWoxitpHZHmnD9y2b_9sl6E/edit?usp=sharing
+
+Slayer guide by Theowyn https://ngs-slayers.github.io/
