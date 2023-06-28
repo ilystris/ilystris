@@ -4,4 +4,5 @@ sidebar_position: 5
 
 # Credits
 
-Thanks to SHILEN i did nothing it's all shilen trust me i'm an ingeneer
+Eiken for setting everything up!
+Boxes writing guide on how to get the good affixes!
