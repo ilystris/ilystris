@@ -30,5 +30,10 @@ You can get 2 per week from the Item Lab NPC by turning in regular Arms Refiners
 
 ![image](https://github.com/ilystris/ilystris.github.io/assets/137956851/12ef36ce-9b3e-4863-b437-02eb9a448436)
 
+You can also get 5 Arms Refiner II from each run of the looping Aelio Relentless task. You also get chunks and 10x Mastery IV and a bunch of SG so it's well worth doing.
+
+![image](https://github.com/ilystris/ilystris.github.io/assets/137956851/257d6a92-8354-4807-93e6-f247699f7794)
+
+
 # Weapon Leveling
 Same as above but different arms refiner amounts required. However in the case of weapons, getting it to +70 is **very important** due to the base attack power increase.
