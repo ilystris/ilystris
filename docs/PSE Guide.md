@@ -21,10 +21,10 @@ sidebar_position: 4
 Main class Force or Techter preferred, primarily for compound techniques and bonus damage from using a talis. If Force, use Slayer sub for more crits. If Techter, use Force subclass for PP regeneration. If you are unable or unwilling to main either class, any class works as long as you sub Force. 
 
 For weapons, use a seasonal weapon with its seasonal affix during events. Outside of events, anything 7* or above or Sechtyl is servicable. Weapon ideally should have a fixa fatale, or fixa attack if using sechtyl.
-Units should be technique focused. Using the budget augments is recommended. Ajax or Eclaireur only. 
+Units should be technique focused. Using the [budget augments](gearing/budget.md) is recommended. Ajax or Eclaireur only. 
 
 The weapon of choice must have a talis as a multiweapon, or be a talis itself. +70 enhancment with six augments is desirable, but if you are limited in resources, +50 is passable, but do try to upgrade if possible. 
-Using the budget augments is recommended. 
+Using the [budget augments](gearing/budget.md) is recommended. 
 
 More damage means more enemies die during pse bursts. The more enemies that die, means more drop oppurtunities for desired augments and more raw meseta. 
 The longer that enemies stay alive, means more missed oppurtunies on drops. So if you have room to enhance your weapon, please do so if possible. 
