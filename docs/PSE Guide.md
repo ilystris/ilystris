@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 4
 ---
 
 # Combat Sector Efficiency Guide
@@ -15,6 +15,7 @@ sidebar_position: 0
 - Daityl/Pettas/Nex Soul IV (2-5k）
 - Chance for 9*
 
+[arms refiner 2](gearing/gearleveling.md)
 
 ## Class & Gear
 Main class Force or Techter preferred, primarily for compound techniques and bonus damage from using a talis. If Force, use Slayer sub for more crits. If Techter, use Force subclass for PP regeneration. If you are unable or unwilling to main either class, any class works as long as you sub Force. 
