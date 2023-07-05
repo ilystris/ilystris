@@ -51,7 +51,7 @@ The first thing to do at any moment in a combat sector is to look at the PSE bar
 - If it is 2 bars or below, start killing enemies. They do not have to be at the E or T. 
 - If the bar is at 3 or 4 and there is no T on the map, continue killing enemies. 
 - If the bar is 3 and there is a T on the map, check if it is a Chaos trial or truck trial. Chaos trials are two trials that occur at the same time and have enemies marked with different colors on the minimap. 
-A truck trial is one where the players defend a supply track against three waves of enemies. You may need visual confirmation for these. If it is not a truck trial or chaos trial, continue killign enemies until 4 bars. 
+A truck trial is one where the players defend a supply track against three waves of enemies. You may need visual confirmation for these. If it is not a truck trial or chaos trial, continue killing enemies until 4 bars. 
 - If the bar is at 4 and there is T on the map, **do not kill any enemy that is not relegated to the trial**. Target only trial related enemies which should be indicated on your screen.  
 
 The most important detail that everybody must know is that **defeating any enemy has a chance to decrease the PSE bar**. It is important to note that:
