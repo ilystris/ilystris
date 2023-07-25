@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+sidebar_position: 30
 ---
 
-# Useful Links
+# Spreadsheets
 
 ## [PSO2NGS Frame Data](https://docs.google.com/spreadsheets/d/1YEg-6eViChVV7HDDlNlgFPJf3qbyIUeAlLYPr9b99t0/edit#gid=2044519851)
 Quick and simple sheet to check the dps of each PA and their damage/frame count. Also has a bunch of other stuff. 
